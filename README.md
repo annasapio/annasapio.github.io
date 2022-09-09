@@ -56,6 +56,6 @@
       <td>18</td>
     </tr>
   </table>
-</p>
+</p> 
   </body>
 </html>
