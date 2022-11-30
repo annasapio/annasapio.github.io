@@ -1,9 +1,13 @@
 body {
   font-family: "Verdana", "Arial", "Helvetica";
   color: rgb(0,54,128);
-  font-size: 16px; font-family: sans-serif; font-style: normal;
-  line-height: 1.4; background color: rgba(226,255,255,1);
-  max-width: 950px; margin-left: 20px; margin-right: 0px;
+  font-size: 16px;
+  font-family: "sans-serif";
+  line-height: 1.4;
+  background color: rgba(226,255,255,1);
+  max-width: 950px;
+  margin-left: 20px;
+  margin-right: 0px;
 }
 
 h2 {
@@ -29,12 +33,12 @@ a:link{
   color: rgb(8, 143, 143);
   font-weight: bold;
 }
-a:hover{
+a:hover {
   font-weight: normal;
 }
-a:visited{
+a:visited {
   color: rgb(159, 226, 191);
 }
-a:active{
+a:active {
   color: rgb(0, 128, 128);
 }
