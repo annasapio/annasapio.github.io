@@ -1,0 +1,40 @@
+body {
+  font-family: "Verdana", "Arial", "Helvetica";
+  color: rgb(0,54,128);
+  font-size: 16px; font-family: sans-serif; font-style: normal;
+  line-height: 1.4; background color: rgba(226,255,255,1);
+  max-width: 950px; margin-left: 20px; margin-right: 0px;
+}
+
+h2 {
+font-family: "Verdana", "Arial", "Helvetica";
+font-size: 30px;
+color: rgb(0, 0, 128);
+margin-left: 25px;
+
+}
+#figure-one, #figure-two {
+border: 1px solid rgb(0,54,128);
+padding: 15px;
+}
+
+h3 {
+font-family: "Raleway", "Arial", "Helvetica";
+font-size: 24px;
+color: rgb(0,54,128)
+}
+
+a:link{
+  text-decoration:underline;
+  color: rgb(8, 143, 143);
+  font-weight: bold;
+}
+a:hover{
+  font-weight: normal;
+}
+a:visited{
+  color: rgb(159, 226, 191);
+}
+a:active{
+  color: rgb(0, 128, 128);
+}
