@@ -9,7 +9,13 @@ body {
   margin-left: 20px;
   margin-right: 0px;
 }
-
+h1{
+  font-family: "Verdana", "Arial", "Helvetica";
+  text-decoration: underline;
+  font-size: 36px;
+  color: rgb(0, 0, 128);
+  margin-left: 25px;
+}
 h2 {
 font-family: "Verdana", "Arial", "Helvetica";
 font-size: 30px;
@@ -29,6 +35,7 @@ color: rgb(0,54,128)
 }
 
 a:link{
+
   text-decoration:underline;
   color: rgb(8, 143, 143);
   font-weight: bold;
