@@ -1,0 +1,115 @@
+
+body{
+  font-family: 'Lato', sans-serif;
+}
+.fContainer{
+  background-color: #5472BC;
+  font-family: 'Lato', sans-serif;
+}
+.contaier{
+  padding: 5% 10% ;
+  font-family: 'Lato', sans-serif;
+}
+.im1{
+  border-radius: 100%;
+  width: 80%;
+}
+.txt1{
+  padding-top: 70px;
+  text-align: left;
+  color: #fff;
+}
+.txt2{
+  margin-bottom: 30px;
+}
+
+.button1 {
+	background-color:#ffffff;
+	border-radius:32px;
+	border:2px solid #5472BC;
+	color:#5472BC;
+	font-family:Georgia;
+	font-size:18px;
+	padding:2% 6%;
+	text-decoration:none;
+}
+.button1:hover {
+	background-color:transparent;
+  color: #fff;
+  border-color: #fff;
+}
+.button2 {
+	background-color:#5472BC;
+	border-radius:32px;
+	border:2px solid #fff;
+	color:#ffffff;
+	font-family:Georgia;
+	font-size:18px;
+	padding:2% 6%;
+	text-decoration:none;
+}
+.button2:hover {
+	background-color:#fff;;
+  color: #5472BC;
+}
+.pd{
+  padding: 8% 0;
+}
+.btn1 {
+	background-color:#ffffff;
+	border-radius:32px;
+	border:2px solid #5472BC;
+	color:#5472BC;
+	font-family:Georgia;
+	font-size:18px;
+	padding:2% 6%;
+	text-decoration:none;
+}
+.btn1:hover {
+	background-color: #5472BC;;
+  color: #fff;
+  border-color: #fff;
+}
+
+/* About */
+.about{
+  padding: 5%;
+  line-height: 2;
+}
+.about_main{
+  color: #5472BC;
+  font-size: 30px;
+  text-align: center;
+}
+.about_p{
+  text-align: center;
+  padding: 1% 6%;
+  font-size: 16px;
+}
+/* Education */
+.edu{
+  background-color: #5472BC;
+  padding: 5% 12%;
+  color: #fff;
+  line-height: 2.5;
+}
+/* Experience */
+.ex{
+  line-height: 1.8;
+}
+.exp{
+  text-align: center;
+  padding: 3% 0;
+  font-weight: bold;
+  border-top: 2px solid #fff;
+}
+.cn{
+  text-align: center;
+}
+/* Contact */
+.con{
+  background-color: #5472BC;
+  color: #fff;
+  line-height: 2;
+  padding: 3% 0;
+}
