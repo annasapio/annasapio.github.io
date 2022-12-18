@@ -1,4 +1,19 @@
-
+#lnkIN
+{  
+  text-decoration: none;
+  color:rgb(254, 254, 254);
+  background-color: #0a46dd;
+  border-radius: 6px;
+}
+#tab1
+{
+  margin-left: 40%;
+}
+th
+{
+   
+  padding-left: 20px;
+}
 body{
   font-family: 'Lato', sans-serif;
 }
@@ -12,7 +27,7 @@ body{
 }
 .im1{
   border-radius: 100%;
-  width: 80%;
+  width: 50%;
 }
 .txt1{
   padding-top: 70px;
